@@ -1,0 +1,24 @@
+{
+  "name": "oda-test",
+  "version": "1.0.0",
+  "description": "Installer for ODA Cloud project",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oda-izavyalov/test.git"
+  },
+  "keywords": [
+    "ODA",
+    "ODA Cloud",
+    "CAD"
+  ],
+  "author": "izavyalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oda-izavyalov/test/issues"
+  },
+  "homepage": "https://github.com/oda-izavyalov/test#readme"
+}
